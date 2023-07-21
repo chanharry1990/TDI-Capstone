@@ -1,2 +1,0 @@
-# TDI-Capstone
-Capstone Project
